@@ -44,7 +44,7 @@ const Editor: React.FC = () => {
 
     useEffect(() => {
 
-        playSound(blyaaaSound, false)
+        // playSound(blyaaaSound, false)
 
         const handleKeyDown = (event: KeyboardEvent) => {
             if (editorRef.current && editorRef.current.contains(event.target as Node)) {
