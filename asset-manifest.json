@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PythonTheBestEditor/static/css/main.dc63d248.css",
+    "main.js": "/PythonTheBestEditor/static/js/main.a79ef7d1.js",
+    "static/media/blyaaaa.mp3": "/PythonTheBestEditor/static/media/blyaaaa.3ffd95db43554d152c9c.mp3",
+    "static/media/python_suka.mp3": "/PythonTheBestEditor/static/media/python_suka.0acce37099d542306204.mp3",
+    "static/media/bam2.mp3": "/PythonTheBestEditor/static/media/bam2.85f0f5d1507f8ba78f4f.mp3",
+    "static/media/bam1.mp3": "/PythonTheBestEditor/static/media/bam1.3a409f06060ff4910f41.mp3",
+    "static/media/bac2.mp3": "/PythonTheBestEditor/static/media/bac2.86199adf0bda6237d3a0.mp3",
+    "static/media/bac3.mp3": "/PythonTheBestEditor/static/media/bac3.86199adf0bda6237d3a0.mp3",
+    "static/media/bac1.mp3": "/PythonTheBestEditor/static/media/bac1.7709412381699851e8a8.mp3",
+    "index.html": "/PythonTheBestEditor/index.html",
+    "main.dc63d248.css.map": "/PythonTheBestEditor/static/css/main.dc63d248.css.map",
+    "main.a79ef7d1.js.map": "/PythonTheBestEditor/static/js/main.a79ef7d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc63d248.css",
+    "static/js/main.a79ef7d1.js"
+  ]
+}
